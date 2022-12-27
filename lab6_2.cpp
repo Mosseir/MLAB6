@@ -6,7 +6,7 @@ double rad2deg(double r)
     {
         r = r*(180/M_PI) ;
         return r ;
-    }   
+    }       
 
 double deg2rad(double d)
     {
